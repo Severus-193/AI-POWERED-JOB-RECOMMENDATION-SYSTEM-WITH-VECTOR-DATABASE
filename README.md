@@ -14,7 +14,7 @@ This project enables AI-driven job recommendations through text queries or resum
 
 ## Dataset
 
-The system uses `**jobPostings.js**` as the primary dataset. This dataset is utilized in the first stage for job searches based on text queries. The second stage enhances recommendations by analyzing user-uploaded resumes.
+The system uses `jobPostings.js` as the primary dataset. This dataset is utilized in the first stage for job searches based on text queries. The second stage enhances recommendations by analyzing user-uploaded resumes.
 
 ## Implementation Details
 
