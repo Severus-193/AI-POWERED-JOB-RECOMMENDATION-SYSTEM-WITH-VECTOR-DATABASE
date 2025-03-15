@@ -6,7 +6,7 @@ const jobPostings = require('./jobPostings');
 const hf = new HfInference('your-secret-key');
 // PostgreSQL Client Setup
 const client = new Client({
-    user: 'postgres',
+    user: 'your-username',
     host: '172.21.73.52',
     database: 'postgres',
     password: 'your-password',
